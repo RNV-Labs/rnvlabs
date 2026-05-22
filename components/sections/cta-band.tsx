@@ -35,10 +35,10 @@ export function CtaBand() {
                 <ArrowRight className='size-4' />
               </Link>
               <a
-                href='mailto:hello@rnvlabs.com'
+                href='mailto:rnvlabs@gmail.com'
                 className='press inline-flex items-center gap-2 rounded-btn h-11 px-5 text-[14px] font-medium text-ink ring-1 ring-hairline hover:bg-canvas focus-visible:outline-2 focus-visible:outline-ink focus-visible:outline-offset-2'
               >
-                hello@rnvlabs.com
+                rnvlabs@gmail.com
               </a>
             </div>
           </div>
