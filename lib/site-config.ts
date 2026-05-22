@@ -30,6 +30,10 @@ export const siteConfig = {
       ],
     },
   ],
+  social: [
+    { label: 'Facebook', href: 'https://www.facebook.com/share/1F1Ga7FYwU/?mibextid=wwXIfr' },
+    { label: 'Instagram', href: 'https://www.instagram.com/rnvlabs2026?igsh=c2trNnljN2Z0ZW1k&utm_source=qr' },
+  ],
 } as const;
 
 export type SiteConfig = typeof siteConfig;
